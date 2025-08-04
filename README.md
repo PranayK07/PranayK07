@@ -36,7 +36,3 @@ I'm an undergraduate student at the **University of Connecticut (Class of 2029)*
 ## 📫 Let's Connect
 
 - 📧 Email: [pranay.kakkar@outlook.com](mailto:pranay.kakkar@outlook.com)
-
----
-
-> *“Solving problems is more than logic—it's curiosity, persistence, and the courage to try again.”*
