@@ -20,7 +20,7 @@ I assisted in research on **privacy-preserving cryptographic systems using biome
 
 This work introduces **ClearEyes**, a high-entropy key derivation pipeline with improved security and accuracy for iris biometrics, correcting previous errors in the fuzzy extractor literature.
 
-### **🧪 McCarron Physics Lab @ UConn** (Summer 2023)  
+### **🧪 McCarron Physics Lab @ The McCarron Group** (Summer 2023)  
 
 I worked as a research assistant in the **McCarron Group** at UConn, contributing to a portable Magneto-Optical Trap (MOT) demo for lithium atoms. Modeled the relationship between **laser diode temperature and emission wavelength** using **Python & linear regression** to ensure precise tuning
 
@@ -32,15 +32,17 @@ Although physics-adjacent, this project deepened my interest in **hardware-orien
 
 - **Languages**: Python, Java, C++, JavaScript, Kotlin, HTML/CSS  
 - **Domains**: Machine Learning, Cybersecurity, Database Management  
-- **Tools**: Git, Docker, CAD, OpenCV, scikit-learn, PyTorch, Firebase, SQL, Excel
+- **Tools**: Git, Docker, CAD, OpenCV, scikit-learn, PyTorch, MongoDB, SQL, Excel
 
 ### 📜 Certifications
 - 📌 ISC2 CC Cybersecurity (2024)
-- 📌 Harvard HCS AI Certification (2024)
-- 📌 Microsoft DP-900 & AI-900 (2025)
+- 📌 Harvard Computing Society AI Certification (2024)
+- 📌 Microsoft Azure Data Fundamentals | DP-900 (2024)
+- 📌 Microsoft Azure AI Funcdamentals  | AI-900 (2025)
 
 ---
 
 ## 📫 Let's Connect
 
 - 📧 Email: [pranay.kakkar@outlook.com](mailto:pranay.kakkar@outlook.com)
+- 💼 LinkedIn: [pranay-kakkar](https://www.linkedin.com/in/pranay-kakkar/) 
