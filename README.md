@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I'm currently working on FlowIQ, a SaaS platform that helps companies identify user exit points and optimize their customer journey by pinpointing exactly where users drop off.<br>👯 I'm looking to collaborate on early-stage startup projects where I can contribute my technical skills and product development experience. Always excited to work with founders building innovative solutions!<br>🤝 I'm looking for help with connecting with others in the blockchain and fintech space who are exploring the intersection of emerging technologies and real-world applications.<br>🌱 I'm currently learning blockchain technology and diving deep into its applications in finance through "Blockchain, Artificial Intelligence, and Financial Services" by Sean Stein Smith.<br>💬 Ask me about my projects and experiences building programs, user analytics, or anything related to startups and product development!<br>⚡ Fun fact: I once built a machine learning model to predict soccer match outcomes, and it correctly predicted seven underdog wins in a row (it did not expect, however, that Manchester United would finish 15th that season 😢)
+
+🔭 I'm currently working on FlowIQ, a SaaS platform that helps companies identify user exit points and optimize their customer journey by pinpointing exactly where users drop off.
+<br>👯 I'm looking to collaborate on early-stage startup projects where I can contribute my technical skills and product development experience. Always excited to work with founders building innovative solutions!
+<br>🤝 I'm looking for help with connecting with others in the blockchain and fintech space who are exploring the intersection of emerging technologies and real-world applications.
+<br>🌱 I'm currently learning blockchain technology and diving deep into its applications in finance through "Blockchain, Artificial Intelligence, and Financial Services" by Sean Stein Smith.
+<br>💬 Ask me about my projects and experiences building programs, user analytics, or anything related to startups and product development!
+<br>⚡ Fun fact: I once built a machine learning model to predict soccer match outcomes, and it correctly predicted seven underdog wins in a row (it did not expect, however, that Manchester United would finish 15th that season 😢)
 
 
 ## 🌐 Socials:
